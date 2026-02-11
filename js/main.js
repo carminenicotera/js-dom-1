@@ -6,5 +6,4 @@ const btnEl = document.getElementById('btn');
 btnEl.addEventListener('click', function(){
   console.log('stai cliccando');
   whiteLampEl.src = "../img/yellow_lamp.png";
-  
 })
